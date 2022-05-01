@@ -17,7 +17,7 @@
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
 3. `SESSION_NAME` : A valid Pyrogram session name
-4. `TIME_ZONE`: Your time zone (Example: asia/kolkata)
+4. `TIME_ZONE`: Your time zone (Example: Asia/kolkata)
 
 <p align="center">
 <img src="https://telegra.ph/file/577fd708b51a9c60053f7.jpg">
