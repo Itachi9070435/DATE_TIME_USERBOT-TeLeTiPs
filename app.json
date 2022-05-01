@@ -24,7 +24,7 @@
             "required": true
         },
         "TIME_ZONE": {
-            "description": "Your time zone (Example: Asia/Kolkata)",
+            "description": "Your time zone (Example: Asia/kolkata)",
             "required": true
         }
     },
